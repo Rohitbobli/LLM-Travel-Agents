@@ -1,0 +1,41 @@
+{
+  "name": "Travel Co-pilot",
+  "description": "AI-powered travel planning assistant with multi-agent system",
+  "repository": "https://github.com/yourusername/agent-itinerary",
+  "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/airplane.svg",
+  "keywords": ["python", "fastapi", "ai", "travel", "agents", "gradio"],
+  "stack": "heroku-20",
+  "env": {
+    "OPENAI_API_KEY": {
+      "description": "Your OpenAI API key for the agents",
+      "required": true
+    },
+    "AGODA_BASE_URL": {
+      "description": "Agoda API base URL",
+      "value": "https://affiliate-api.agoda.com/api/v1"
+    },
+    "AGODA_API_KEY": {
+      "description": "Your Agoda affiliate API key",
+      "required": true
+    },
+    "AGODA_SEARCH_PATH": {
+      "description": "Agoda API search path",
+      "value": "/hotels/search"
+    },
+    "SUPABASE_DB_URL": {
+      "description": "Your Supabase PostgreSQL connection string",
+      "required": true
+    },
+    "PYTHON_ENV": {
+      "description": "Environment setting",
+      "value": "production"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "addons": []
+}

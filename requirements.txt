@@ -1,0 +1,10 @@
+openai-agents
+gradio
+fastapi
+uvicorn[standard]
+python-docx
+python-dotenv
+httpx
+psycopg[binary]
+pydantic
+

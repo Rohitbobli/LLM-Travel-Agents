@@ -1,0 +1,345 @@
+{
+  "destination": "Vietnam",
+  "description": "A 6-day, 5-night budget itinerary through Vietnam for a solo traveler, visiting Hanoi, Ninh Binh, and Hoi An, focusing on historical sites, natural beauty, and local cultural experiences while maximizing cost-saving opportunities. Budget capped at $1,000.",
+  "start_date": "2025-09-10",
+  "end_date": "2025-09-15",
+  "duration_days": 6,
+  "itinerary": [
+    {
+      "date": "2025-09-10",
+      "day_number": 1,
+      "location": "Hanoi",
+      "activities": [
+        "Arrive in Hanoi. Explore the Old Quarter, visit Hoan Kiem Lake, enjoy street food."
+      ],
+      "transportation": "Trains or sleeper buses between cities for affordability, public buses and local taxis in each destination.",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 64408837,
+            "hotelName": "Vinhomes Smartcity can ho The Tokin 2 - Nha Ai Homestay",
+            "starRating": 2.5,
+            "reviewScore": 8.9,
+            "reviewCount": 4,
+            "currency": "USD",
+            "dailyRate": 20.0,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://q-xx.bstatic.com/xdata/images/hotel/840x460/616611655.jpg?k=aa97c2cb256d94df5386f90417266ea35672afd1ccf379bc6b4611aa61588214&o=",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=64408837&currency=USD&checkin=2025-09-10&checkout=2025-09-11&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 20.998199462890625,
+            "longitude": 105.7389907836914
+          },
+          {
+            "hotelId": 12548975,
+            "hotelName": "ARL CAT LINH HOTEL",
+            "starRating": 3.0,
+            "reviewScore": 7.6,
+            "reviewCount": 15,
+            "currency": "USD",
+            "dailyRate": 20.02,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/12548975/-1/8077d8269475cc47e86be8f123162ec7.jpg?ca=10&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=12548975&currency=USD&checkin=2025-09-10&checkout=2025-09-11&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 21.028375047908558,
+            "longitude": 105.82831964828121
+          },
+          {
+            "hotelId": 64838088,
+            "hotelName": "CHARM CHARM - kimmy housing - 48 To Ngoc Van",
+            "starRating": 3.0,
+            "reviewScore": 8.8,
+            "reviewCount": 11,
+            "currency": "USD",
+            "dailyRate": 20.02,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://q-xx.bstatic.com/xdata/images/hotel/840x460/638365931.jpg?k=13f3231c2e1745c3a277dc342f06dba1f4378ab9ecf7e06519b85f9eae463989&o=",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=64838088&currency=USD&checkin=2025-09-10&checkout=2025-09-11&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 21.06877899169922,
+            "longitude": 105.82452392578125
+          }
+        ]
+      },
+      "notes": "Focus on street food, markets, and local experiences for cost savings."
+    },
+    {
+      "date": "2025-09-11",
+      "day_number": 2,
+      "location": "Hanoi",
+      "activities": [
+        "Visit the Ho Chi Minh Mausoleum, Temple of Literature, and enjoy local markets. Evening train/bus to Ninh Binh."
+      ],
+      "transportation": "None",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 64408837,
+            "hotelName": "Vinhomes Smartcity can ho The Tokin 2 - Nha Ai Homestay",
+            "starRating": 2.5,
+            "reviewScore": 8.9,
+            "reviewCount": 4,
+            "currency": "USD",
+            "dailyRate": 20.0,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://q-xx.bstatic.com/xdata/images/hotel/840x460/616611655.jpg?k=aa97c2cb256d94df5386f90417266ea35672afd1ccf379bc6b4611aa61588214&o=",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=64408837&currency=USD&checkin=2025-09-11&checkout=2025-09-12&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 20.998199462890625,
+            "longitude": 105.7389907836914
+          },
+          {
+            "hotelId": 12548975,
+            "hotelName": "ARL CAT LINH HOTEL",
+            "starRating": 3.0,
+            "reviewScore": 7.6,
+            "reviewCount": 15,
+            "currency": "USD",
+            "dailyRate": 20.02,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/12548975/-1/8077d8269475cc47e86be8f123162ec7.jpg?ca=10&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=12548975&currency=USD&checkin=2025-09-11&checkout=2025-09-12&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 21.028375047908558,
+            "longitude": 105.82831964828121
+          },
+          {
+            "hotelId": 64838088,
+            "hotelName": "CHARM CHARM - kimmy housing - 48 To Ngoc Van",
+            "starRating": 3.0,
+            "reviewScore": 8.8,
+            "reviewCount": 11,
+            "currency": "USD",
+            "dailyRate": 20.02,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://q-xx.bstatic.com/xdata/images/hotel/840x460/638365931.jpg?k=13f3231c2e1745c3a277dc342f06dba1f4378ab9ecf7e06519b85f9eae463989&o=",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=64838088&currency=USD&checkin=2025-09-11&checkout=2025-09-12&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 21.06877899169922,
+            "longitude": 105.82452392578125
+          }
+        ]
+      },
+      "notes": "Travel with trains or sleeper buses to maximize budget and authentic experience."
+    },
+    {
+      "date": "2025-09-12",
+      "day_number": 3,
+      "location": "Ninh Binh",
+      "activities": [
+        "Explore Ninh Binh: Visit Tam Coc, Bich Dong Pagoda, and Trang An. Sample local cuisine. Evening train/bus to Hoi An."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Ninh Binh"
+      ],
+      "notes": "Prioritize free/low-cost attractions and walking/biking tours."
+    },
+    {
+      "date": "2025-09-13",
+      "day_number": 4,
+      "location": "Hoi An",
+      "activities": [
+        "Arrive in Hoi An. Explore the Ancient Town, Japanese Covered Bridge, and lantern-lit streets. Visit tailor shops."
+      ],
+      "transportation": "None",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 1191407,
+            "hotelName": "Hoi An Osaka Riverside Villa & Spa",
+            "starRating": 3.0,
+            "reviewScore": 8.8,
+            "reviewCount": 64,
+            "currency": "USD",
+            "dailyRate": 20.0,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/119/1191407/1191407_16041220370041475104.jpg?ca=6&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=1191407&currency=USD&checkin=2025-09-13&checkout=2025-09-14&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 15.900661299594685,
+            "longitude": 108.3406113088131
+          },
+          {
+            "hotelId": 7393037,
+            "hotelName": "Legend Connect Homestay",
+            "starRating": 4.0,
+            "reviewScore": 9.4,
+            "reviewCount": 28,
+            "currency": "USD",
+            "dailyRate": 20.02,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/31187756/496903494/029f3556d753a2e20dea3fa77327c28c.jpeg?ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=7393037&currency=USD&checkin=2025-09-13&checkout=2025-09-14&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 15.882234573364258,
+            "longitude": 108.32622528076172
+          },
+          {
+            "hotelId": 810093,
+            "hotelName": "Phuc Thao Villa Hoi An",
+            "starRating": 3.0,
+            "reviewScore": 8.9,
+            "reviewCount": 106,
+            "currency": "USD",
+            "dailyRate": 20.11,
+            "crossedOutRate": 36.04,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/810/810093/810093_15120110550038145547.jpg?ca=6&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=810093&currency=USD&checkin=2025-09-13&checkout=2025-09-14&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 15.883933381595758,
+            "longitude": 108.34451654100036
+          }
+        ]
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-14",
+      "day_number": 5,
+      "location": "Hoi An",
+      "activities": [
+        "Take a morning cycling tour to the rice paddies and nearby villages. Enjoy a spa session in the early afternoon. Visit An Bang Beach later. Departure to Da Nang for flight out or onward journey."
+      ],
+      "transportation": "None",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 1191407,
+            "hotelName": "Hoi An Osaka Riverside Villa & Spa",
+            "starRating": 3.0,
+            "reviewScore": 8.8,
+            "reviewCount": 64,
+            "currency": "USD",
+            "dailyRate": 20.0,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/119/1191407/1191407_16041220370041475104.jpg?ca=6&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=1191407&currency=USD&checkin=2025-09-14&checkout=2025-09-15&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 15.900661299594685,
+            "longitude": 108.3406113088131
+          },
+          {
+            "hotelId": 430923,
+            "hotelName": "Hoian Nostalgia Hotel & Spa",
+            "starRating": 3.0,
+            "reviewScore": 7.8,
+            "reviewCount": 840,
+            "currency": "USD",
+            "dailyRate": 20.02,
+            "crossedOutRate": 86.1,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/430923/-1/e9d458f193c2c587b1c2eef72cb7773b.jpg?ca=7&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=430923&currency=USD&checkin=2025-09-14&checkout=2025-09-15&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 15.8793889360479,
+            "longitude": 108.320302963257
+          },
+          {
+            "hotelId": 7393037,
+            "hotelName": "Legend Connect Homestay",
+            "starRating": 4.0,
+            "reviewScore": 9.4,
+            "reviewCount": 28,
+            "currency": "USD",
+            "dailyRate": 20.02,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/31187756/496903494/029f3556d753a2e20dea3fa77327c28c.jpeg?ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=7393037&currency=USD&checkin=2025-09-14&checkout=2025-09-15&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 15.882234573364258,
+            "longitude": 108.32622528076172
+          }
+        ]
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-15",
+      "day_number": 6,
+      "location": "Da Nang",
+      "activities": [],
+      "transportation": "None",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 72313786,
+            "hotelName": "Nghe Home - Homestay Da Nang",
+            "starRating": 0.0,
+            "reviewScore": 7.1,
+            "reviewCount": 6,
+            "currency": "USD",
+            "dailyRate": 20.01,
+            "crossedOutRate": 28.46,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/72313786/0/6e0bd02d13a20d8fdae4ddb6c1b87d5d.jpg?ce=2&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=72313786&currency=USD&checkin=2025-09-15&checkout=2025-09-16&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 16.0487937,
+            "longitude": 108.2462665
+          },
+          {
+            "hotelId": 45448245,
+            "hotelName": "Quang Minh Riverside Hotel Danang",
+            "starRating": 3.0,
+            "reviewScore": 9.2,
+            "reviewCount": 453,
+            "currency": "USD",
+            "dailyRate": 20.02,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/45448245/-1/44a5ab0bcc051893262edc3717feddd5.jpg?ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=45448245&currency=USD&checkin=2025-09-15&checkout=2025-09-16&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 16.064517974853516,
+            "longitude": 108.2301025390625
+          },
+          {
+            "hotelId": 30818805,
+            "hotelName": "Nguyen Huong Hotel",
+            "starRating": 2.0,
+            "reviewScore": 7.6,
+            "reviewCount": 13,
+            "currency": "USD",
+            "dailyRate": 20.03,
+            "crossedOutRate": 0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/30818805/0/24d65f6b9ab405f4bb69f25840c295c5.jpg?ca=27&ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=30818805&currency=USD&checkin=2025-09-15&checkout=2025-09-16&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": true,
+            "latitude": 16.0772606,
+            "longitude": 108.2190164
+          }
+        ]
+      },
+      "notes": ""
+    }
+  ]
+}

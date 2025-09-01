@@ -1,0 +1,75 @@
+{
+  "destination": "Singapore",
+  "description": "A 5-day, budget-friendly solo trip to Singapore focused on culture, nature, city highlights, and local cuisine with daily itineraries under $500 (excluding flights).",
+  "start_date": "2024-09-20",
+  "end_date": "2024-09-25",
+  "duration_days": 6,
+  "itinerary": [
+    {
+      "date": "2024-09-20",
+      "day_number": 1,
+      "location": "Singapore",
+      "activities": [
+        "Arrive in Singapore, check-in to budget accommodation, explore Little India, dinner at Tekka Centre."
+      ],
+      "transportation": "MRT (multi-day tourist pass, unlimited rides)",
+      "accommodation": [
+        "Budget hostel or capsule hotel in central Singapore (average $20-25/night)"
+      ],
+      "notes": "All activities planned for free/low-cost sightseeing and food."
+    },
+    {
+      "date": "2024-09-21",
+      "day_number": 2,
+      "location": "Singapore",
+      "activities": [
+        "Visit Gardens by the Bay (free outdoor gardens), Marina Bay waterfront walk, Chinatown for cheap eats."
+      ],
+      "transportation": "Bus",
+      "accommodation": [],
+      "notes": "Budget allotted as approx. $120-140 on accommodation, $60-70 on transport, meals approx. $10/day at hawker centers, rest for entry fees or extras."
+    },
+    {
+      "date": "2024-09-22",
+      "day_number": 3,
+      "location": "Singapore",
+      "activities": [
+        "Morning at Sentosa (beaches, walk the boardwalk), afternoon nature walk at Southern Ridges, explore VivoCity Mall."
+      ],
+      "transportation": "None",
+      "accommodation": [],
+      "notes": "Flights not included in $500; if flight is needed in budget, let me know origin city."
+    },
+    {
+      "date": "2024-09-23",
+      "day_number": 4,
+      "location": "Singapore",
+      "activities": [
+        "Visit National Museum (free on selected hours, else just explore the exterior), eat in Bugis, Haji Lane street art, Kampong Glam."
+      ],
+      "transportation": "None",
+      "accommodation": [],
+      "notes": ""
+    },
+    {
+      "date": "2024-09-24",
+      "day_number": 5,
+      "location": "Singapore",
+      "activities": [
+        "Botanic Gardens walk (free), shopping at Orchard Road window-shopping, farewell meal at Maxwell Food Centre before departure."
+      ],
+      "transportation": "None",
+      "accommodation": [],
+      "notes": ""
+    },
+    {
+      "date": "2024-09-25",
+      "day_number": 6,
+      "location": "Singapore",
+      "activities": [],
+      "transportation": "None",
+      "accommodation": [],
+      "notes": ""
+    }
+  ]
+}

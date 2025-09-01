@@ -1,0 +1,55 @@
+{
+  "destination": "Bangkok",
+  "description": "A 4-day budget Bangkok itinerary perfect for couples, balancing must-see sights, street food, parks, and authentic local experiences. All activities are cost-effective while maximizing cultural exposure and ease of transport for 2 people. Focus on hostels or guesthouses for accommodation and street/local food options to keep costs low. Dates: Sep 10-13, 2024. Location: Bangkok.",
+  "start_date": "2024-09-10",
+  "end_date": "2024-09-13",
+  "duration_days": 4,
+  "itinerary": [
+    {
+      "date": "2024-09-10",
+      "day_number": 1,
+      "location": "Bangkok",
+      "activities": [
+        "Arrive in Bangkok. Check in to hostel or guesthouse. Visit Khao San Road for local street food and a lively atmosphere. Explore Rambuttri Alley. Evening walk at Lumphini Park."
+      ],
+      "transportation": "BTS Skytrain",
+      "accommodation": [
+        "Bangkok: Hostel or guesthouse in old city or near Khao San Road, budget options"
+      ],
+      "notes": "Stay hydrated with a refillable bottle."
+    },
+    {
+      "date": "2024-09-11",
+      "day_number": 2,
+      "location": "Bangkok",
+      "activities": [
+        "Breakfast at a local street vendor. Visit the Grand Palace and Wat Pho (Reclining Buddha). Try cheap eats nearby. Afternoon boat ride along the Chao Phraya River using the Orange Flag Ferry. Explore Chinatown for dinner and nighttime markets."
+      ],
+      "transportation": "MRT Subway",
+      "accommodation": [],
+      "notes": "Use Grab or public transit for easy travel."
+    },
+    {
+      "date": "2024-09-12",
+      "day_number": 3,
+      "location": "Bangkok",
+      "activities": [
+        "Breakfast at hostel/local eatery. Spend the morning at Chatuchak Weekend Market (open Fri-Sun). Visit nearby JJ Green Market if available. Relax in Benjakitti Park. Evening: Enjoy local street food and night market browsing."
+      ],
+      "transportation": "Public Buses",
+      "accommodation": [],
+      "notes": "Carry small change for street vendors."
+    },
+    {
+      "date": "2024-09-13",
+      "day_number": 4,
+      "location": "Bangkok",
+      "activities": [
+        "Morning temple visit: Wat Arun. Explore Thonburi area by river boat. Grab a final Thai lunch at a street stall. Last-minute shopping at local markets. Departure."
+      ],
+      "transportation": "Chao Phraya River Boat",
+      "accommodation": [],
+      "notes": "Buy a local SIM card for internet."
+    }
+  ]
+}

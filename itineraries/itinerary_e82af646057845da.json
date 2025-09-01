@@ -1,0 +1,152 @@
+{
+  "destination": "Vietnam",
+  "description": "A 10-day solo luxury journey through Vietnam, featuring the best of Hanoi, Ha Long Bay, Hoi An, Da Nang, Ho Chi Minh City, and the Mekong Delta, with private tours, high-end cuisine, spa treatments, and unique cultural experiences. Utilizes boutique and 4-5 star luxury hotels and cruises, premium ground/private transfers, and top curated experiences for an upscale, seamless trip.",
+  "start_date": "2024-09-10",
+  "end_date": "2024-09-20",
+  "duration_days": 11,
+  "itinerary": [
+    {
+      "date": "2024-09-10",
+      "day_number": 1,
+      "location": "Vietnam",
+      "activities": [
+        "Arrive in Hanoi. Private airport transfer to luxury hotel. Relax and enjoy a welcome spa treatment. Explore the Old Quarter. Dinner at Home Hanoi Restaurant."
+      ],
+      "transportation": "Private airport transfers throughout. Domestic flights: Hanoi-Da Nang, Da Nang-Ho Chi Minh City. Private car: Hanoi-Ha Long Bay, Ha Long Bay-Hanoi, Da Nang-Hoi An, Hoi An-Da Nang, HCMC-Mekong Delta.",
+      "accommodation": [
+        "Peridot Grand Luxury Hotel & Spa, Hanoi"
+      ],
+      "notes": "All accommodations are luxury class with exceptional guest ratings."
+    },
+    {
+      "date": "2024-09-11",
+      "day_number": 2,
+      "location": "Vietnam",
+      "activities": [
+        "Guided city tour: Ho Chi Minh Mausoleum, Temple of Literature, One Pillar Pagoda. Water puppet show in the evening. Night at Peridot Grand Luxury Hotel & Spa."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Peridot Grand Luxury Hotel & Spa, Hanoi"
+      ],
+      "notes": "Private guides and drivers throughout for a seamless, luxury experience."
+    },
+    {
+      "date": "2024-09-12",
+      "day_number": 3,
+      "location": "Vietnam",
+      "activities": [
+        "Private transfer to Ha Long Bay. Board a luxury overnight cruise. Gourmet lunch onboard. Sunset kayaking. Evening squid fishing and spa services."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Luxury Cruise, Ha Long Bay"
+      ],
+      "notes": "All specified meals are in highly-rated restaurants or on-site at luxury resorts."
+    },
+    {
+      "date": "2024-09-13",
+      "day_number": 4,
+      "location": "Vietnam",
+      "activities": [
+        "Morning Tai Chi on the cruise deck. Cave exploration. Return to Hanoi, quick city stroll. Fly to Da Nang. Private transfer to Hoi An. Stay at luxury boutique hotel. Dinner at Morning Glory."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Hoi An Odyssey Hotel & Spa, Hoi An"
+      ],
+      "notes": "Daily spa treatments or wellness experiences are included."
+    },
+    {
+      "date": "2024-09-14",
+      "day_number": 5,
+      "location": "Vietnam",
+      "activities": [
+        "Private lantern-making workshop. Guided tour of Hoi An Ancient Town. Relax on An Bang Beach with a luxury beachside lunch. Evening free for leisure."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Hoi An Odyssey Hotel & Spa, Hoi An"
+      ],
+      "notes": "Itinerary includes a blend of private cultural tours, culinary experiences, and leisure time."
+    },
+    {
+      "date": "2024-09-15",
+      "day_number": 6,
+      "location": "Vietnam",
+      "activities": [
+        "Private car to Da Nang. Visit Marble Mountains, My Khe Beach. Check in at InterContinental Danang Sun Peninsula Resort. Dinner at the resort’s fine restaurant."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "InterContinental Danang Sun Peninsula Resort, Da Nang"
+      ],
+      "notes": "Total estimated cost is kept within the $2000 USD budget by selecting boutique luxury properties and key fine dining experiences."
+    },
+    {
+      "date": "2024-09-16",
+      "day_number": 7,
+      "location": "Vietnam",
+      "activities": [
+        "Fly to Ho Chi Minh City. Private transfer to The Myst Dong Khoi Hotel. Explore Ben Thanh Market, Notre-Dame Cathedral. Fine dining at The Refinery."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "The Myst Dong Khoi, Ho Chi Minh City"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-09-17",
+      "day_number": 8,
+      "location": "Vietnam",
+      "activities": [
+        "Private guided tour to Cu Chi Tunnels. Spa session at a leading city spa. Cocktails at a rooftop bar in the evening."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "The Myst Dong Khoi, Ho Chi Minh City"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-09-18",
+      "day_number": 9,
+      "location": "Vietnam",
+      "activities": [
+        "Private transfer to Mekong Delta. Overnight at a luxury eco-lodge. Guided boat trip, visit floating market and local artisan villages. Gourmet dinner at the lodge."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Luxury Eco-lodge, Mekong Delta"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-09-19",
+      "day_number": 10,
+      "location": "Vietnam",
+      "activities": [
+        "Return to Ho Chi Minh City. Shopping at luxury boutiques, spa day. Nightlife experience at a trendy club. Stay at The Myst Dong Khoi."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "The Myst Dong Khoi, Ho Chi Minh City"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-09-20",
+      "day_number": 11,
+      "location": "Vietnam",
+      "activities": [
+        "Relaxing morning, brunch at a top city café. Private airport transfer. Departure."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "—"
+      ],
+      "notes": ""
+    }
+  ]
+}

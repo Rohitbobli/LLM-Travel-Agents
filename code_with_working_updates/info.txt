@@ -1,0 +1,5 @@
+This main.py and app.py has
+
+dynamic handoffs
+feedback loops
+updates itineraries

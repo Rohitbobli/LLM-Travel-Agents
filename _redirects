@@ -1,0 +1,7 @@
+# API redirects to serverless functions
+/api/chat /.netlify/functions/chat 200
+/api/healthz /.netlify/functions/health 200
+/api/itineraries/* /.netlify/functions/itinerary 200
+
+# Catch-all for SPA routing
+/* /index.html 200

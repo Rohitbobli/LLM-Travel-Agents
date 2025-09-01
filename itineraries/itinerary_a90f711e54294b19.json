@@ -1,0 +1,87 @@
+{
+  "destination": "Vietnam",
+  "description": "A 6-day luxury solo journey to Vietnam (Hanoi, Halong Bay, Hoi An, Ho Chi Minh City) with curated upscale experiences including private tours, cruise, top-tier resorts, fine dining, and cultural highlights. Designed for comfort, immersion, and indulgence.",
+  "start_date": "2024-09-15",
+  "end_date": "2024-09-20",
+  "duration_days": 6,
+  "itinerary": [
+    {
+      "date": "2024-09-15",
+      "day_number": 1,
+      "location": "Vietnam",
+      "activities": [
+        "Arrive in Hanoi. Check into Sofitel Legend Metropole Hanoi. Explore Old Quarter. Attend traditional Water Puppet Show."
+      ],
+      "transportation": "International flights not included. Private airport pickups and city transfers. Domestic flights: Hanoi > Da Nang; Da Nang > Ho Chi Minh City. Private car from Hanoi to Halong Bay and return. Cruise transport on Halong Bay.",
+      "accommodation": [
+        "Sofitel Legend Metropole Hanoi (luxury hotel)"
+      ],
+      "notes": "All accommodations selected for luxury experience and quality service. Estimate covers upscale dining, private tours, and classes. Arrange airport transfers in advance."
+    },
+    {
+      "date": "2024-09-16",
+      "day_number": 2,
+      "location": "Vietnam",
+      "activities": [
+        "Private car transfer to Halong Bay. Board luxury Bai Tu Long Bay cruise. Kayaking, gourmet dining, sunset views."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Luxury cruise cabin (private charter Bai Tu Long Bay)"
+      ],
+      "notes": "International flights to/from Vietnam excluded from budget. Check for visa requirements online. Weather can be humid in September, occasional rain expected in North/Central Vietnam."
+    },
+    {
+      "date": "2024-09-17",
+      "day_number": 3,
+      "location": "Vietnam",
+      "activities": [
+        "Morning tai chi and breakfast on cruise. Return to Hanoi, flight to Da Nang. Transfer to Four Seasons Resort The Nam Hai in Hoi An."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Four Seasons Resort The Nam Hai, Hoi An"
+      ],
+      "notes": "The suggested budget breakdown: Accommodations $1,000, Domestic Flights $300, Transfers $200, Cruise $400, Dining/Activities $500. You can adjust tour types and hotels for flexibility."
+    },
+    {
+      "date": "2024-09-18",
+      "day_number": 4,
+      "location": "Vietnam",
+      "activities": [
+        "Tour Hoi An Ancient Town. Custom tailor visit. Private Vietnamese culinary class. Relax at resort."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Four Seasons Resort The Nam Hai, Hoi An"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-09-19",
+      "day_number": 5,
+      "location": "Vietnam",
+      "activities": [
+        "Fly to Ho Chi Minh City. Check into Park Hyatt Saigon. City tour: Notre Dame Cathedral, Central Post Office, War Remnants Museum. Rooftop fine dining."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Park Hyatt Saigon, Ho Chi Minh City"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-09-20",
+      "day_number": 6,
+      "location": "Vietnam",
+      "activities": [
+        "Spa morning or final shopping. Private transfer to Tan Son Nhat International Airport for departure."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "-"
+      ],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "destination": "Laos",
+  "description": "A 5-day budget itinerary to Laos, focusing on authentic experiences, local cuisine, and affordable accommodations across Luang Prabang, Vang Vieng, and Vientiane. Ideal for solo travelers seeking adventure and culture without overspending.",
+  "start_date": "2024-12-01",
+  "end_date": "2024-12-05",
+  "duration_days": 5,
+  "itinerary": [
+    {
+      "date": "2024-12-01",
+      "day_number": 1,
+      "location": "Luang Prabang",
+      "activities": [
+        "Arrive in Luang Prabang. Check into hostel/guesthouse. Explore the Old Town and Night Market. Visit Mount Phousi for sunset."
+      ],
+      "transportation": "Local buses and minivans between cities (Luang Prabang - Vang Vieng - Vientiane). Tuk-tuks and walking within cities.",
+      "accommodation": {
+        "agoda_error": {
+          "status": 400,
+          "body": {
+            "error": {
+              "id": 907,
+              "message": "Invalid data: CheckIn date or CheckOut date are less than current date"
+            }
+          },
+          "path": ""
+        }
+      },
+      "notes": "All accommodations are budget guesthouses/hostels (approximately $7-$15 per night)."
+    },
+    {
+      "date": "2024-12-02",
+      "day_number": 2,
+      "location": "Luang Prabang",
+      "activities": [
+        "Take a budget minivan to Kuang Si Waterfalls. Swim and hike around the waterfalls. Return and try street food for dinner."
+      ],
+      "transportation": "Tuk-tuk",
+      "accommodation": {
+        "agoda_error": {
+          "status": 400,
+          "body": {
+            "error": {
+              "id": 907,
+              "message": "Invalid data: CheckIn date or CheckOut date are less than current date"
+            }
+          },
+          "path": ""
+        }
+      },
+      "notes": "Most meals from street vendors or local restaurants ($2-$4 per meal)."
+    },
+    {
+      "date": "2024-12-03",
+      "day_number": 3,
+      "location": "Vang Vieng",
+      "activities": [
+        "Travel by local bus to Vang Vieng. Check into a budget guesthouse. Walk along the Nam Song River. Explore local village and night market."
+      ],
+      "transportation": "Local bus",
+      "accommodation": {
+        "agoda_error": {
+          "status": 400,
+          "body": {
+            "error": {
+              "id": 907,
+              "message": "Invalid data: CheckIn date or CheckOut date are less than current date"
+            }
+          },
+          "path": ""
+        }
+      },
+      "notes": "Budget for local activities and transportation is included (tubing, waterfalls, buses)."
+    },
+    {
+      "date": "2024-12-04",
+      "day_number": 4,
+      "location": "Vang Vieng",
+      "activities": [
+        "Go tubing or kayaking on the river in the morning (budget rental). Visit caves and Blue Lagoon (entrance fees under $2). Enjoy local Lao food for dinner."
+      ],
+      "transportation": "Bicycle or tuk-tuk",
+      "accommodation": {
+        "agoda_error": {
+          "status": 400,
+          "body": {
+            "error": {
+              "id": 907,
+              "message": "Invalid data: CheckIn date or CheckOut date are less than current date"
+            }
+          },
+          "path": ""
+        }
+      },
+      "notes": "Total estimated expenditure for accommodation, food, transportation, and activities: approx. $250-$350 for 5 days."
+    },
+    {
+      "date": "2024-12-05",
+      "day_number": 5,
+      "location": "Vientiane",
+      "activities": [
+        "Morning bus to Vientiane. Brief city tour: visit Patuxai and That Luang. Last-minute shopping or relaxing at a riverside caf\u00e9. Depart Laos."
+      ],
+      "transportation": "Bus, local transport",
+      "accommodation": {
+        "agoda_error": {
+          "status": 400,
+          "body": {
+            "error": {
+              "id": 907,
+              "message": "Invalid data: CheckIn date or CheckOut date are less than current date"
+            }
+          },
+          "path": ""
+        }
+      },
+      "notes": "Plenty of buffer for extra tours, souvenirs, or emergencies within your $2,000 budget."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[build]
+  command = "pip install -r requirements.txt"
+  publish = "public"
+
+[build.environment]
+  PYTHON_VERSION = "3.10"
+
+# Redirect API calls to serverless functions
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/chat"
+  to = "/.netlify/functions/chat"
+  status = 200
+
+[[redirects]]
+  from = "/healthz"
+  to = "/.netlify/functions/health"
+  status = 200
+
+[[redirects]]
+  from = "/itineraries/*"
+  to = "/.netlify/functions/itinerary"
+  status = 200
+
+# Catch-all redirect for SPA
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+# Environment variables (set in Netlify dashboard)
+[context.production.environment]
+  NODE_ENV = "production"

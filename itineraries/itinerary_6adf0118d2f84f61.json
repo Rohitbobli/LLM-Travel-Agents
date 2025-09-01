@@ -1,0 +1,297 @@
+{
+  "destination": "Laos",
+  "description": "A bespoke luxury itinerary in Laos including exclusive stays, private tours, wellness, gourmet dining, Mekong River cruise, and extraordinary scenic experiences, maximizing comfort and cultural immersion.",
+  "start_date": "2025-09-05",
+  "end_date": "2025-09-10",
+  "duration_days": 6,
+  "itinerary": [
+    {
+      "date": "2025-09-05",
+      "day_number": 1,
+      "location": "Luang Prabang",
+      "activities": [
+        "Arrival in Luang Prabang. Private pick-up and transfer to Amantaka. Settle into luxury suite and enjoy welcome spa treatment. Evening: Fine dining at the hotel\u2019s acclaimed restaurant."
+      ],
+      "transportation": "Private airport transfers.",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 1845959,
+            "hotelName": "Avani+ Luang Prabang Hotel",
+            "starRating": 5.0,
+            "reviewScore": 9.1,
+            "reviewCount": 507,
+            "currency": "USD",
+            "dailyRate": 174.71,
+            "crossedOutRate": 424.0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/1845959/0/6560a4fa5928f081593f14a9d585f114.jpeg?ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=1845959&currency=USD&checkin=2025-09-05&checkout=2025-09-06&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 19.8885040283203,
+            "longitude": 102.133804321289
+          },
+          {
+            "hotelId": 186776,
+            "hotelName": "Sofitel Luang Prabang",
+            "starRating": 5.0,
+            "reviewScore": 8.8,
+            "reviewCount": 169,
+            "currency": "USD",
+            "dailyRate": 175.12,
+            "crossedOutRate": 198.71,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/186/186776/186776_16092715010046996614.jpg?ca=6&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=186776&currency=USD&checkin=2025-09-05&checkout=2025-09-06&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 19.8821170537546,
+            "longitude": 102.134436964989
+          }
+        ]
+      },
+      "notes": "All experiences are tailored for solo luxury. Activities can be adjusted based on personal interest and seasonal availability. Reserve all private guides, transfers, and spa appointments in advance. Hot air balloon/heli tour subject to weather and budget."
+    },
+    {
+      "date": "2025-09-06",
+      "day_number": 2,
+      "location": "Luang Prabang",
+      "activities": [
+        "Morning: Private city tour to UNESCO-listed temples and Royal Palace Museum. Afternoon: Farm-to-table lunch and personal blessing/Baci ceremony. Evening: Explore night market or relax with a sunset cocktail."
+      ],
+      "transportation": "Local private vehicle.",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 1845959,
+            "hotelName": "Avani+ Luang Prabang Hotel",
+            "starRating": 5.0,
+            "reviewScore": 9.1,
+            "reviewCount": 507,
+            "currency": "USD",
+            "dailyRate": 174.71,
+            "crossedOutRate": 424.0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/1845959/0/6560a4fa5928f081593f14a9d585f114.jpeg?ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=1845959&currency=USD&checkin=2025-09-06&checkout=2025-09-07&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 19.8885040283203,
+            "longitude": 102.133804321289
+          },
+          {
+            "hotelId": 186776,
+            "hotelName": "Sofitel Luang Prabang",
+            "starRating": 5.0,
+            "reviewScore": 8.8,
+            "reviewCount": 169,
+            "currency": "USD",
+            "dailyRate": 336.76,
+            "crossedOutRate": 382.14,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/186/186776/186776_16092715010046996614.jpg?ca=6&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=186776&currency=USD&checkin=2025-09-06&checkout=2025-09-07&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 19.8821170537546,
+            "longitude": 102.134436964989
+          }
+        ]
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-07",
+      "day_number": 3,
+      "location": "Luang Prabang",
+      "activities": [
+        "Mekong River day cruise on luxury boat with private guide. Visit Pak Ou Caves and riverside villages. Onboard gourmet lunch. Evening: Traditional Lao massage back at hotel."
+      ],
+      "transportation": "Luxury river cruise with transfers.",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 1845959,
+            "hotelName": "Avani+ Luang Prabang Hotel",
+            "starRating": 5.0,
+            "reviewScore": 9.1,
+            "reviewCount": 507,
+            "currency": "USD",
+            "dailyRate": 174.71,
+            "crossedOutRate": 424.0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/1845959/0/6560a4fa5928f081593f14a9d585f114.jpeg?ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=1845959&currency=USD&checkin=2025-09-07&checkout=2025-09-08&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 19.8885040283203,
+            "longitude": 102.133804321289
+          },
+          {
+            "hotelId": 186776,
+            "hotelName": "Sofitel Luang Prabang",
+            "starRating": 5.0,
+            "reviewScore": 8.8,
+            "reviewCount": 169,
+            "currency": "USD",
+            "dailyRate": 385.25,
+            "crossedOutRate": 437.16,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/186/186776/186776_16092715010046996614.jpg?ca=6&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=186776&currency=USD&checkin=2025-09-07&checkout=2025-09-08&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 19.8821170537546,
+            "longitude": 102.134436964989
+          }
+        ]
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-08",
+      "day_number": 4,
+      "location": "Luang Prabang",
+      "activities": [
+        "Optional hot air balloon ride over Luang Prabang countryside (weather permitting) or private guided hiking tour to nearby waterfalls. Afternoon by infinity pool. Evening: Private dining experience organized by the hotel."
+      ],
+      "transportation": "Local transfers as needed.",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 1845959,
+            "hotelName": "Avani+ Luang Prabang Hotel",
+            "starRating": 5.0,
+            "reviewScore": 9.1,
+            "reviewCount": 507,
+            "currency": "USD",
+            "dailyRate": 174.71,
+            "crossedOutRate": 424.0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/1845959/0/6560a4fa5928f081593f14a9d585f114.jpeg?ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=1845959&currency=USD&checkin=2025-09-08&checkout=2025-09-09&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 19.8885040283203,
+            "longitude": 102.133804321289
+          },
+          {
+            "hotelId": 186776,
+            "hotelName": "Sofitel Luang Prabang",
+            "starRating": 5.0,
+            "reviewScore": 8.8,
+            "reviewCount": 169,
+            "currency": "USD",
+            "dailyRate": 175.12,
+            "crossedOutRate": 198.71,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/186/186776/186776_16092715010046996614.jpg?ca=6&ce=1&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=186776&currency=USD&checkin=2025-09-08&checkout=2025-09-09&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 19.8821170537546,
+            "longitude": 102.134436964989
+          }
+        ]
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-09",
+      "day_number": 5,
+      "location": "Vang Vieng",
+      "activities": [
+        "Free morning for shopping or leisure/spa. Transfer by private car to Vang Vieng. Check into high-end riverside resort. Sunset views and riverside dinner."
+      ],
+      "transportation": "Private car transfer to Vang Vieng.",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 74458021,
+            "hotelName": "VangVieng Elegance Boutique Resort",
+            "starRating": 4.0,
+            "reviewScore": 3.2,
+            "reviewCount": 1,
+            "currency": "USD",
+            "dailyRate": 308.22,
+            "crossedOutRate": 433.22,
+            "discountPercentage": 25.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/74458021/0/47327ef5f55a4646001ccbb73c0dfb08.jpg?ce=2&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=74458021&currency=USD&checkin=2025-09-09&checkout=2025-09-10&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 18.926134,
+            "longitude": 102.44325
+          },
+          {
+            "hotelId": 60693828,
+            "hotelName": "Pool Villa Vangvieng",
+            "starRating": 3.5,
+            "reviewScore": 9.2,
+            "reviewCount": 3,
+            "currency": "USD",
+            "dailyRate": 338.11,
+            "crossedOutRate": 412.0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/60693828/0/98155e21589cb08dc435742708ec86ba.jpg?ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=60693828&currency=USD&checkin=2025-09-09&checkout=2025-09-10&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": false,
+            "latitude": 18.95009,
+            "longitude": 102.44379
+          }
+        ]
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-10",
+      "day_number": 6,
+      "location": "Vang Vieng",
+      "activities": [
+        "Morning: Scenic helicopter tour over limestone karsts (optional, if available within budget) or local exploration by private tuk-tuk. Afternoon: Departure via private transfer to airport."
+      ],
+      "transportation": "Helicopter or tuk-tuk tour, private airport transfer.",
+      "accommodation": {
+        "results": [
+          {
+            "hotelId": 74458021,
+            "hotelName": "VangVieng Elegance Boutique Resort",
+            "starRating": 4.0,
+            "reviewScore": 3.2,
+            "reviewCount": 1,
+            "currency": "USD",
+            "dailyRate": 308.22,
+            "crossedOutRate": 433.22,
+            "discountPercentage": 25.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/74458021/0/47327ef5f55a4646001ccbb73c0dfb08.jpg?ce=2&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=74458021&currency=USD&checkin=2025-09-10&checkout=2025-09-11&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": true,
+            "freeWifi": true,
+            "latitude": 18.926134,
+            "longitude": 102.44325
+          },
+          {
+            "hotelId": 60693828,
+            "hotelName": "Pool Villa Vangvieng",
+            "starRating": 3.5,
+            "reviewScore": 9.2,
+            "reviewCount": 3,
+            "currency": "USD",
+            "dailyRate": 338.11,
+            "crossedOutRate": 412.0,
+            "discountPercentage": 0.0,
+            "imageURL": "http://pix8.agoda.net/hotelImages/60693828/0/98155e21589cb08dc435742708ec86ba.jpg?ce=0&s=800x600",
+            "landingURL": "https://www.agoda.com/partners/partnersearch.aspx?cid=1946345&hid=60693828&currency=USD&checkin=2025-09-10&checkout=2025-09-11&NumberofAdults=1&NumberofChildren=0&childages=&Rooms=1&pcs=6",
+            "includeBreakfast": false,
+            "freeWifi": false,
+            "latitude": 18.95009,
+            "longitude": 102.44379
+          }
+        ]
+      },
+      "notes": ""
+    }
+  ]
+}

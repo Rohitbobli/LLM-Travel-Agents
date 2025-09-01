@@ -1,0 +1,1 @@
+Agoda API along with updation of itineraries is working

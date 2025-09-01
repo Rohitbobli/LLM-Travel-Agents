@@ -1,0 +1,105 @@
+{
+  "destination": "Laos",
+  "description": "A 6-day, 5-night luxury solo journey in Laos, primarily based in Luang Prabang. The itinerary blends deluxe cultural, culinary, wellness, and natural experiences, including private guides, spa treatments, exclusive cruises, fine dining, and tailored excursions. Each detail is curated for a high-end, immersive escape, with seamless private transport and premium hospitality throughout.",
+  "start_date": "2025-09-05",
+  "end_date": "2025-09-10",
+  "duration_days": 6,
+  "itinerary": [
+    {
+      "date": "2025-09-05",
+      "day_number": 1,
+      "location": "Luang Prabang",
+      "activities": [
+        "Arrival in Luang Prabang. Private transfer to luxury hotel (La R\u00e9sidence Phou Vao or similar). Afternoon spa and relaxation at the hotel. Evening welcome dinner at hotel\u2019s fine-dining restaurant."
+      ],
+      "transportation": "Private airport and hotel transfers. Luxury car with driver for daily excursions. Mekong River cruise boat. High-speed rail (optional for excursions outside Luang Prabang).",
+      "accommodation": {
+        "error": {
+          "id": 911,
+          "message": "No search result"
+        }
+      },
+      "notes": "Weather during this period is warm with occasional rain, so pack light, breathable clothing and a rain jacket. Arrange all experiences in advance to ensure luxury customization. Total budget of $2,000 covers premium accommodation, guided experiences, private transport, culinary highlights, and personalized services."
+    },
+    {
+      "date": "2025-09-06",
+      "day_number": 2,
+      "location": "Luang Prabang",
+      "activities": [
+        "Private guided city tour: UNESCO Old Town, Royal Palace Museum, and local temples. Gourmet lunch at a riverside restaurant. Afternoon Mekong River sunset cruise with exclusive cocktails. Night market stroll or local performances."
+      ],
+      "transportation": "Luxury car and cruise boat",
+      "accommodation": {
+        "error": {
+          "id": 911,
+          "message": "No search result"
+        }
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-07",
+      "day_number": 3,
+      "location": "Luang Prabang",
+      "activities": [
+        "Visit Kuang Si Waterfalls with private driver and picnic brunch. Optional elephant sanctuary visit (luxury experience with ethical operators). Afternoon at leisure or personalized spa session. Dinner at an acclaimed Luang Prabang restaurant."
+      ],
+      "transportation": "Luxury car",
+      "accommodation": {
+        "error": {
+          "id": 911,
+          "message": "No search result"
+        }
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-08",
+      "day_number": 4,
+      "location": "Luang Prabang",
+      "activities": [
+        "Traditional Baci Ceremony experience with a private guide. Guided shopping for silk and crafts. Afternoon high tea in a colonial villa. Explore Mount Phousi for panoramic sunset views. Evening food tasting tour."
+      ],
+      "transportation": "Luxury car",
+      "accommodation": {
+        "error": {
+          "id": 911,
+          "message": "No search result"
+        }
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-09",
+      "day_number": 5,
+      "location": "Luang Prabang",
+      "activities": [
+        "Luxury cooking class with a top chef (market visit included). Afternoon at leisure or additional spa services. Evening farewell dinner cruise on the Mekong with fine wines and private table."
+      ],
+      "transportation": "Luxury car and cruise boat",
+      "accommodation": {
+        "error": {
+          "id": 911,
+          "message": "No search result"
+        }
+      },
+      "notes": ""
+    },
+    {
+      "date": "2025-09-10",
+      "day_number": 6,
+      "location": "Luang Prabang",
+      "activities": [
+        "Morning at leisure for last-minute relaxation or shopping. Private airport transfer for departure."
+      ],
+      "transportation": "Luxury car and airport transfer",
+      "accommodation": {
+        "error": {
+          "id": 911,
+          "message": "No search result"
+        }
+      },
+      "notes": ""
+    }
+  ]
+}

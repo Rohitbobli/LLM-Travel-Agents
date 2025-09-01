@@ -1,0 +1,21 @@
+{
+  "name": "travel-copilot-netlify",
+  "version": "1.0.0",
+  "description": "Travel Co-pilot API for Netlify deployment",
+  "main": "index.js",
+  "scripts": {
+    "build": "python -m pip install -r requirements.txt && python build_static.py",
+    "dev": "netlify dev",
+    "deploy": "netlify deploy --prod"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.0.0",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

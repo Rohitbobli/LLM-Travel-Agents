@@ -1,0 +1,137 @@
+{
+  "destination": "Laos",
+  "description": "10-day solo luxury itinerary in Laos, balancing top-tier hotels with unique high-end local experiences in Vientiane and Luang Prabang. Seamless transfers, guided tours, luxury spa and wellness, fine dining, and curated cultural activities. Budget prioritized through selective hotel choices and planned activities for a personalized premium experience.",
+  "start_date": "2024-12-01",
+  "end_date": "2024-12-10",
+  "duration_days": 10,
+  "itinerary": [
+    {
+      "date": "2024-12-01",
+      "day_number": 1,
+      "location": "Vientiane",
+      "activities": [
+        "Arrive in Vientiane, private airport transfer to Settha Palace Hotel, relax and enjoy luxury amenities."
+      ],
+      "transportation": "Private airport transfers in Vientiane and Luang Prabang",
+      "accommodation": [
+        "Settha Palace Hotel, Vientiane"
+      ],
+      "notes": "Balance luxury stays by combining top-tier and high-end boutique accommodations to fit budget."
+    },
+    {
+      "date": "2024-12-02",
+      "day_number": 2,
+      "location": "Vientiane",
+      "activities": [
+        "Guided city tour: Pha That Luang, Patuxai, Buddha Park. Evening fine-dining experience."
+      ],
+      "transportation": "Private car with driver for day tours and excursions",
+      "accommodation": [
+        "Settha Palace Hotel, Vientiane"
+      ],
+      "notes": "Advance booking required for private guides, spa treatments, and premium restaurants during peak season."
+    },
+    {
+      "date": "2024-12-03",
+      "day_number": 3,
+      "location": "Vientiane",
+      "activities": [
+        "Spa day and pool relaxation at hotel, explore riverside promenade, visit local markets."
+      ],
+      "transportation": "Private car with driver for day tours and excursions",
+      "accommodation": [
+        "Settha Palace Hotel, Vientiane"
+      ],
+      "notes": "Weather in December is pleasant and ideal for outdoor activities\u2014pack light clothes and one jacket."
+    },
+    {
+      "date": "2024-12-04",
+      "day_number": 4,
+      "location": "Luang Prabang",
+      "activities": [
+        "Private transfer to Luang Prabang (flight or luxury car), check-in at Amantaka Hotel, sunset by pool."
+      ],
+      "transportation": "Domestic flight or private car between Vientiane and Luang Prabang",
+      "accommodation": [
+        "Amantaka Hotel, Luang Prabang"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-05",
+      "day_number": 5,
+      "location": "Luang Prabang",
+      "activities": [
+        "Explore Luang Prabang: Royal Palace, Wat Xieng Thong, luxury Mekong River sunset cruise."
+      ],
+      "transportation": "Private car with driver for day tours and excursions",
+      "accommodation": [
+        "Amantaka Hotel, Luang Prabang"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-06",
+      "day_number": 6,
+      "location": "Luang Prabang",
+      "activities": [
+        "Kuang Si Falls with private guide, swim and picnic, evening at leisure at Amantaka."
+      ],
+      "transportation": "Private car with driver for day tours and excursions",
+      "accommodation": [
+        "Amantaka Hotel, Luang Prabang"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-07",
+      "day_number": 7,
+      "location": "Luang Prabang",
+      "activities": [
+        "Cooking class with local chef, wellness afternoon: yoga or spa, gourmet dinner."
+      ],
+      "transportation": "Private car with driver for day tours and excursions",
+      "accommodation": [
+        "La R\u00e9sidence Phou Vao, Luang Prabang"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-08",
+      "day_number": 8,
+      "location": "Luang Prabang",
+      "activities": [
+        "Hilltop views and infinity pool relaxation at La R\u00e9sidence Phou Vao."
+      ],
+      "transportation": "Private car with driver for day tours and excursions",
+      "accommodation": [
+        "La R\u00e9sidence Phou Vao, Luang Prabang"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-09",
+      "day_number": 9,
+      "location": "Luang Prabang",
+      "activities": [
+        "Visit local artisan villages or Elephant Sanctuary in comfort, farewell dinner with traditional performance."
+      ],
+      "transportation": "Private car with driver for day tours and excursions",
+      "accommodation": [
+        "La R\u00e9sidence Phou Vao, Luang Prabang"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-10",
+      "day_number": 10,
+      "location": "Luang Prabang",
+      "activities": [
+        "Private transfer to airport, last-minute shopping or spa, departure."
+      ],
+      "transportation": "Private airport transfers in Vientiane and Luang Prabang",
+      "accommodation": [],
+      "notes": ""
+    }
+  ]
+}

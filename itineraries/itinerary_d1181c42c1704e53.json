@@ -1,0 +1,87 @@
+{
+  "destination": "Vietnam",
+  "description": "6-day solo budget itinerary in Vietnam from Dec 10\u201315, covering Hanoi, Halong Bay, Da Nang, Hoi An, and Ho Chi Minh City. Focus on historical sights, natural landscapes, street food, and local culture. Includes budget hostels, public and air transport, group tours for Halong Bay, and curated local experiences. Designed for one traveler with a $2,000 budget (ample room for extra activities or comforts).",
+  "start_date": "2024-12-10",
+  "end_date": "2024-12-15",
+  "duration_days": 6,
+  "itinerary": [
+    {
+      "date": "2024-12-10",
+      "day_number": 1,
+      "location": "Vietnam",
+      "activities": [
+        "Arrive in Hanoi. Explore Old Quarter, Hoan Kiem Lake, street food tour."
+      ],
+      "transportation": "Domestic flights (Hanoi to Da Nang, Da Nang to Ho Chi Minh City), public buses, taxis (Grab), day tour bus (Halong Bay)",
+      "accommodation": [
+        "Hostel/guesthouse in Hanoi"
+      ],
+      "notes": "Total estimated spend (excluding flights to/from Vietnam): $350\u2013$450. Remainder can be used for local airfares, souvenirs, and extras."
+    },
+    {
+      "date": "2024-12-11",
+      "day_number": 2,
+      "location": "Vietnam",
+      "activities": [
+        "Visit Temple of Literature, Ho Chi Minh Mausoleum. Evening explore Night Market."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Hostel/guesthouse in Hanoi"
+      ],
+      "notes": "Visa required for some nationalities \u2013 check in advance. Weather cool in north, mild/warm in south. Ideal for budget travelers, solo-friendly."
+    },
+    {
+      "date": "2024-12-12",
+      "day_number": 3,
+      "location": "Vietnam",
+      "activities": [
+        "Day trip to Halong Bay (join group tour). Return to Hanoi in evening."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Hostel/guesthouse in Hanoi"
+      ],
+      "notes": "Solo-budget includes shared group tours, hostel dorms, public transport, and street food dining."
+    },
+    {
+      "date": "2024-12-13",
+      "day_number": 4,
+      "location": "Vietnam",
+      "activities": [
+        "Fly to Da Nang in morning. Visit Marble Mountains. Evening stroll My Khe Beach."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Budget hostel in Da Nang"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-14",
+      "day_number": 5,
+      "location": "Vietnam",
+      "activities": [
+        "Day trip to Hoi An Ancient Town. Explore lantern-lit streets, historic houses. Return to Da Nang."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "Budget hostel in Da Nang"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-15",
+      "day_number": 6,
+      "location": "Vietnam",
+      "activities": [
+        "Fly to Ho Chi Minh City. Visit War Remnants Museum, Ben Thanh Market. Departure."
+      ],
+      "transportation": "None",
+      "accommodation": [
+        "No accommodation (Departure)"
+      ],
+      "notes": ""
+    }
+  ]
+}

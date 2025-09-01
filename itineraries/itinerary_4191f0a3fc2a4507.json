@@ -1,0 +1,77 @@
+{
+  "destination": "Vietnam",
+  "description": "A 6-day solo, budget-friendly itinerary to Vietnam focused on key cultural, historical, and unique local experiences in Hanoi, Ninh Binh, and Hoi An, using local transportation and budget accommodation. Suits a $1000 total budget for solo travel. Prioritizes affordable food, intercity transport options, and iconic sites with many free/low-cost activities.",
+  "start_date": "2025-09-10",
+  "end_date": "2025-09-15",
+  "duration_days": 6,
+  "itinerary": [
+    {
+      "date": "2025-09-10",
+      "day_number": 1,
+      "location": "Hanoi",
+      "activities": [
+        "Arrive in Hanoi. Explore the Old Quarter. Visit Hoan Kiem Lake. Enjoy local street food and check into a budget hostel."
+      ],
+      "transportation": "Local bus/grab from airport to Hanoi Old Quarter.",
+      "accommodation": {},
+      "notes": "Stick to local eateries for budget meals."
+    },
+    {
+      "date": "2025-09-11",
+      "day_number": 2,
+      "location": "Hanoi",
+      "activities": [
+        "Morning street food breakfast. Visit Ho Chi Minh Mausoleum and Temple of Literature. Walk around French Quarter. Evening sleeper bus or train to Ninh Binh."
+      ],
+      "transportation": "Sleeper bus/train from Hanoi to Ninh Binh.",
+      "accommodation": {},
+      "notes": "Use Grab app for affordable local rides."
+    },
+    {
+      "date": "2025-09-12",
+      "day_number": 3,
+      "location": "Ninh Binh",
+      "activities": [
+        "Arrive in Ninh Binh. Take a Tam Coc boat tour. Bike around countryside. Visit Bai Dinh Pagoda. Overnight in Ninh Binh."
+      ],
+      "transportation": "Bicycle or local taxi.",
+      "accommodation": [
+        "Ninh Binh guesthouse"
+      ],
+      "notes": "Book buses/trains/flights ahead for best rates."
+    },
+    {
+      "date": "2025-09-13",
+      "day_number": 4,
+      "location": "Hoi An",
+      "activities": [
+        "Morning transfer to Hoi An (bus/train/flight via Da Nang). Explore Ancient Town’s lantern streets. Sample local cuisine: cao lau noodles. Enjoy a spa session. Bike to An Bang Beach if time permits. Overnight in Hoi An."
+      ],
+      "transportation": "Intercity bus/train/flight from Ninh Binh to Hoi An (via Da Nang); bike rental in Hoi An.",
+      "accommodation": {},
+      "notes": "Carry cash (Vietnamese Dong) for small purchases. Hoi An is great for affordable spa experiences."
+    },
+    {
+      "date": "2025-09-14",
+      "day_number": 5,
+      "location": "Hanoi",
+      "activities": [
+        "Take a cooking class or get clothes tailored in the morning. Explore markets. Afternoon or evening transfer back to Hanoi (flight/bus/train). Last-minute shopping in Old Quarter. Overnight in Hanoi."
+      ],
+      "transportation": "Bus/train/flight from Hoi An (via Da Nang) to Hanoi.",
+      "accommodation": {},
+      "notes": "Most attractions have nominal entry fees."
+    },
+    {
+      "date": "2025-09-15",
+      "day_number": 6,
+      "location": "Hanoi",
+      "activities": [
+        "Final stroll or coffee in Hanoi. Depart Vietnam."
+      ],
+      "transportation": "Local bus/grab to airport.",
+      "accommodation": {},
+      "notes": "Network with other travelers at hostels for tips and shared tours."
+    }
+  ]
+}

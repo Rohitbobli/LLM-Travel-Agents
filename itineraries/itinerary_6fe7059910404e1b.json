@@ -1,0 +1,139 @@
+{
+  "destination": "Vietnam",
+  "description": "A luxury 10-day solo journey experiencing Vietnam\u2019s highlights in comfort and style: Hanoi\u2019s culture and cuisine, Halong Bay by premium cruise, Hoi An\u2019s riverside charm, and Ho Chi Minh City\u2019s cosmopolitan energy. Includes stays in landmark hotels, private tours, spa days, and fine dining.",
+  "start_date": "2024-12-01",
+  "end_date": "2024-12-10",
+  "duration_days": 10,
+  "itinerary": [
+    {
+      "date": "2024-12-01",
+      "day_number": 1,
+      "location": "Hanoi",
+      "activities": [
+        "Arrival in Hanoi; private airport transfer to luxury hotel; fine dining dinner"
+      ],
+      "transportation": "Private airport transfer",
+      "accommodation": [
+        "Sofitel Legend Metropole, Hanoi"
+      ],
+      "notes": "Budget is $2,000; focus on luxury hotels, private tours, fine dining, premium cruises, and business-class domestic flights"
+    },
+    {
+      "date": "2024-12-02",
+      "day_number": 2,
+      "location": "Hanoi",
+      "activities": [
+        "Private chauffeur tour of Old Quarter, Hoan Kiem Lake, and the Temple of Literature; lunch at La Verticale; spa afternoon; evening free"
+      ],
+      "transportation": "Private car with driver for city transfers",
+      "accommodation": [
+        "Sofitel Legend Metropole, Hanoi"
+      ],
+      "notes": "Adjust activities, accommodation, or luxury options as needed to fit final cost within budget"
+    },
+    {
+      "date": "2024-12-03",
+      "day_number": 3,
+      "location": "Halong Bay",
+      "activities": [
+        "Private car to Halong Bay; check-in for 2-day luxury cruise with all-inclusive gourmet meals; explore limestone islands"
+      ],
+      "transportation": "Private car to Halong Bay; cruise",
+      "accommodation": [
+        "Orchid Premium Cruise, Halong Bay"
+      ],
+      "notes": "Vietnamese e-visa required for some nationalities; arrange private airport transfers for comfort and time savings"
+    },
+    {
+      "date": "2024-12-04",
+      "day_number": 4,
+      "location": "Hanoi",
+      "activities": [
+        "Halong Bay sunrise Tai Chi; kayaking or bamboo boat tour; return to Hanoi by private car; evening at leisure in luxury hotel"
+      ],
+      "transportation": "Cruise; private car to Hanoi",
+      "accommodation": [
+        "Sofitel Legend Metropole, Hanoi"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-05",
+      "day_number": 5,
+      "location": "Hoi An",
+      "activities": [
+        "Fly business class to Da Nang; chauffeur to Hoi An; relax at luxury hotel; evening walking tour of Ancient Town with a private guide"
+      ],
+      "transportation": "Flight: Hanoi to Da Nang (business class); private car to Hoi An",
+      "accommodation": [
+        "Anantara Hoi An Resort, Hoi An"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-06",
+      "day_number": 6,
+      "location": "Hoi An",
+      "activities": [
+        "Cooking class with local chef; spa or beach relaxation; dinner at fine riverside restaurant"
+      ],
+      "transportation": "Private car (optional for day trips)",
+      "accommodation": [
+        "Anantara Hoi An Resort, Hoi An"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-07",
+      "day_number": 7,
+      "location": "Ho Chi Minh City",
+      "activities": [
+        "Fly business class to Ho Chi Minh City; private airport transfer to luxury hotel; rooftop cocktail experience"
+      ],
+      "transportation": "Flight: Da Nang to Ho Chi Minh City (business class); private transfer",
+      "accommodation": [
+        "Hotel Des Arts Saigon, Ho Chi Minh City"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-08",
+      "day_number": 8,
+      "location": "Ho Chi Minh City",
+      "activities": [
+        "Private half-day city tour (War Remnants Museum, Notre Dame Cathedral, Ben Thanh Market); afternoon at leisure for shopping or spa"
+      ],
+      "transportation": "Private car",
+      "accommodation": [
+        "Hotel Des Arts Saigon, Ho Chi Minh City"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-09",
+      "day_number": 9,
+      "location": "Ho Chi Minh City",
+      "activities": [
+        "Private Mekong Delta day tour with gourmet lunch"
+      ],
+      "transportation": "Private car; boat",
+      "accommodation": [
+        "Hotel Des Arts Saigon, Ho Chi Minh City"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-12-10",
+      "day_number": 10,
+      "location": "Ho Chi Minh City",
+      "activities": [
+        "Private transfer to airport; departure from Ho Chi Minh City"
+      ],
+      "transportation": "Private transfer",
+      "accommodation": [
+        "-"
+      ],
+      "notes": ""
+    }
+  ]
+}

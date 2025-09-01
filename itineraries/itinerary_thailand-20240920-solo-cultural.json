@@ -1,0 +1,87 @@
+{
+  "destination": "Thailand",
+  "description": "A 6-day budget-friendly, culturally immersive solo trip in Thailand, exploring the historical and spiritual sights of Bangkok, Ayutthaya, Chiang Mai, and Chiang Rai, with cost-effective accommodations and local transport. Focus on temples, markets, local food, and UNESCO sites. Total estimated budget: $400\u2013$500.",
+  "start_date": "2024-09-20",
+  "end_date": "2024-09-25",
+  "duration_days": 6,
+  "itinerary": [
+    {
+      "date": "2024-09-20",
+      "day_number": 1,
+      "location": "Thailand",
+      "activities": [
+        "Arrive in Bangkok, check into hostel in Khao San Road area. Visit the Grand Palace and Wat Phra Kaew. Lunch at local restaurant nearby. Afternoon stroll through Wat Pho. Dinner at a street food market (Khao San Road). Evening free to explore riverside area."
+      ],
+      "transportation": "Flight to Thailand (arrival Bangkok), local taxi/tuk-tuk in Bangkok",
+      "accommodation": [
+        "Budget hostel, Khao San Road, Bangkok"
+      ],
+      "notes": "Try to use night buses/flights for cost savings. Eat at local markets for budget-friendly meals. Confirm transportation schedules before travel. Most temple entrances require modest dress. Weather in September may be rainy\u2014pack accordingly."
+    },
+    {
+      "date": "2024-09-21",
+      "day_number": 2,
+      "location": "Thailand",
+      "activities": [
+        "Morning train to Ayutthaya (approx. 1.5hrs). Check into budget guesthouse. Explore Ayutthaya Historical Park: Wat Mahathat, Wat Ratchaburana, Wat Phra Si Sanphet. Lunch at riverside cafe. Sunset boat tour around the ruins. Dinner in local market."
+      ],
+      "transportation": "Morning train to Ayutthaya, local tuk-tuks in Ayutthaya",
+      "accommodation": [
+        "Guesthouse, Ayutthaya"
+      ],
+      "notes": ""
+    },
+    {
+      "date": "2024-09-22",
+      "day_number": 3,
+      "location": "Thailand",
+      "activities": [
+        "Morning bus or train back to Bangkok. Flight or overnight train to Chiang Mai. Check into budget guesthouse near Old City. Evening walk at the Chiang Mai Night Bazaar. Local dinner option."
+      ],
+      "transportation": "Train/bus to Bangkok, overnight train/flight to Chiang Mai, local tuk-tuk in Chiang Mai",
+      "accommodation": [
+        "Guesthouse, Chiang Mai, near Old City"
+      ],
+      "notes": "Book train/flights in advance for best rates."
+    },
+    {
+      "date": "2024-09-23",
+      "day_number": 4,
+      "location": "Thailand",
+      "activities": [
+        "Full day cultural immersion in Chiang Mai: Visit Wat Phra That Doi Suthep in the morning (take a taxi/songthaew). Lunch at a nearby cafe. Afternoon stroll through Old City: Wat Phra Singh, Wat Chedi Luang. Dinner at a local Thai eatery."
+      ],
+      "transportation": "Taxi/songthaew for Doi Suthep, walk or tuk-tuk in Old City",
+      "accommodation": [
+        "Same as previous night, Chiang Mai"
+      ],
+      "notes": "Use public transport where possible to save money."
+    },
+    {
+      "date": "2024-09-24",
+      "day_number": 5,
+      "location": "Thailand",
+      "activities": [
+        "Morning bus to Chiang Rai (approx. 3hrs). Check into budget guesthouse. Visit White Temple (Wat Rong Khun) and Blue Temple (Wat Rong Suea Ten). Lunch at a local cafe. Explore Chiang Rai night market in the evening. Return to hostel, pack for departure."
+      ],
+      "transportation": "Morning bus to Chiang Rai, local transport to temples",
+      "accommodation": [
+        "Guesthouse, Chiang Rai"
+      ],
+      "notes": "Use ride-sharing apps or local buses for best connectivity."
+    },
+    {
+      "date": "2024-09-25",
+      "day_number": 6,
+      "location": "Thailand",
+      "activities": [
+        "Check out from Chiang Rai. Bus or flight back to Bangkok for departure or onward travel. If time allows, last-minute souvenir shopping."
+      ],
+      "transportation": "Bus or flight to Bangkok for international departure",
+      "accommodation": [
+        "No overnight stay (travel or flight)"
+      ],
+      "notes": "Plan to reach airport at least 2 hours before departure."
+    }
+  ]
+}
