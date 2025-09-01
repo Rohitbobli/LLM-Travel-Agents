@@ -4,6 +4,7 @@
 
 [build.environment]
   PYTHON_VERSION = "3.10"
+  NODE_VERSION = "20.11.1"
 
 # Redirect API calls to serverless functions
 [[redirects]]
